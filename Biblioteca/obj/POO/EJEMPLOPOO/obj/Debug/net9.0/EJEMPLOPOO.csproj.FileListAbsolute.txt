@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\bin\Debug\net9.0\EJEMPLOPOO.exe
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\bin\Debug\net9.0\EJEMPLOPOO.deps.json
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\bin\Debug\net9.0\EJEMPLOPOO.runtimeconfig.json
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\bin\Debug\net9.0\EJEMPLOPOO.dll
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\bin\Debug\net9.0\EJEMPLOPOO.pdb
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.dll
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\refint\EJEMPLOPOO.dll
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.pdb
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\EJEMPLOPOO.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\POO\EJEMPLOPOO\obj\Debug\net9.0\ref\EJEMPLOPOO.dll
