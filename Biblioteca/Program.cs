@@ -47,4 +47,12 @@ public class Libro
         get => Edicion;
         set => Edicion = value;
     }
+    public void MostrarInformacion()
+    {
+        Console.WriteLine($"Nombre: {Nombre}");
+        Console.WriteLine($"Título: {Titulo}");
+        Console.WriteLine($"Autor: {Autor}");
+        Console.WriteLine($"Año: {Anio}");
+        Console.WriteLine($"Edición: {Edicion}");
+    }
 }
